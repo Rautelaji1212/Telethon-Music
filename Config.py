@@ -1,4 +1,4 @@
-7026111964 os
+ os
 
 class Config(object):
     API_ID = int(os.environ.get("API_ID", "26741385"))
